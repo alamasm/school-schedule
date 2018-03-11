@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SchoolSchedule</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="monday_string">Понедельник</string>
+    <string name="tuesday_string">Вторник</string>
+    <string name="wednesday_string">Среда</string>
+    <string name="thursday_string">Четверг</string>
+    <string name="friday_string">Пятница</string>
+
+    <string name="alert_title_string">Введите предмет</string>
+    <string name="alert_message_string">Если предмета нету, оставьте пустым</string>
+    <string name="alert_cancel_text">Отмена</string>
+    <string name="alert_ok_text">Ок</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_button_text">Назад</string>
+    <string name="next_button_text">Вперед</string>
+    <string name="control_string">Управление</string>
+    <string name="next_week_string">Следующая неделя</string>
+    <string name="previous_week_string">Предыдущая неделя</string>
+
+    <string name="alert_title_home_work_string">Введите домашнее задание</string>
+
+    <string name="deleteString">Удалить</string>
+    <string name="changeString">Изменить</string>
+    <string name="unmarkString">Пометить как несделанное</string>
+    <string name="subject_text">" Предмет"</string>
+    <string name="change_schedule_string">Изменить расписание</string>
+    <string name="next_lesson_text">Следующий урок :</string>
+    <string name="home_work_text">Домашнее Задание</string>
+    <string name="home_work_show_all">Показать Все</string>
+    <string name="home_work_show_only_next">Показать Только Актуальные</string>
+</resources>

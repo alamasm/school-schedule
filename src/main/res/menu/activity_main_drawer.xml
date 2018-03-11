@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_monday"
+            android:title="@string/monday_string" />
+        <item
+            android:id="@+id/nav_tuesday"
+            android:title="@string/tuesday_string" />
+        <item
+            android:id="@+id/nav_wednesday"
+            android:title="@string/wednesday_string" />
+        <item
+            android:id="@+id/nav_thursday"
+            android:title="@string/thursday_string" />
+        <item
+            android:id="@+id/nav_friday"
+            android:title="@string/friday_string" />
+
+    </group>
+
+    <group android:id="@+id/group2">
+        <group
+            android:id="@+id/group3"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_home_work"
+                android:title="@string/home_work_text" />
+        </group>
+
+        <group android:checkableBehavior="none">
+            <item
+                android:id="@+id/nav_next_week"
+                android:title="@string/next_week_string" />
+            <item
+                android:id="@+id/nav_previous_week"
+                android:title="@string/previous_week_string" />
+        </group>
+    </group>
+
+
+</menu>
